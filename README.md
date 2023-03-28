@@ -1,6 +1,9 @@
 # thingsthatimadecauseiwasbored
 idk man its just random stuff i made cause i was bored
 
+All files uploaded here are open sourced.
+Most of these files are using python.
+
 
 1. I made (forced chatgpt) to make a windows 10 key gen that prob does not work
 
