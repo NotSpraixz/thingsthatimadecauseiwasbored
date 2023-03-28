@@ -27,3 +27,24 @@ I know this is just a normal shutdown script, But you get the point
 Usage:
 
 py shutdown.py
+
+
+
+3. a python program that traces any primary red color and slowly moves your cursor to it.
+
+You need OpenCV installed for this.
+
+Dependencies:
+pip install numpy
+pip install pyautogui
+
+Usage:
+
+
+py mousetracer.py
+
+To exit the program or stop, Press ESC
+
+
+
+
